@@ -1,6 +1,6 @@
 # Hi there, I'm NZUK-NC! 👋
 
-![Banner Image](https://ibb.co/TDHtGyvv)
+![Banner Image](https://i.ibb.co/1Y9TNcvv/Github-profile-banner.png)
 
 ## About Me 🚀
 
