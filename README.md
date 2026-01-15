@@ -1,6 +1,6 @@
 # Hi there, I'm NZUK-NC! 👋
 
-![Banner Image](https://chatgpt.com/s/m_69691fab599c8191869390c8d07caf83)
+![Banner Image](https://ibb.co/TDHtGyvv)
 
 ## About Me 🚀
 
