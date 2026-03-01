@@ -1,4 +1,4 @@
-# Hi there, I'm NZUK-NC!
+# Hi there, I'm Sjiekesjeng!
 
 ![Banner Image](https://i.ibb.co/1Y9TNcvv/Github-profile-banner.png)
 
@@ -24,7 +24,7 @@ I'm a passionate **Renewable Development Consultant** with experience in **pytho
 
 ## Featured Projects
 
-### [Project 1 Title](project_1_link)
+### [WEEB-bot](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
